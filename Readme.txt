@@ -1,3 +1,11 @@
+
+This is a practice exercise I used to compare Matplotlib and Seaborn functionalities.
+I used the data and guidance provided by the article to craft my own plots. The goal of the exercise was to replicate
+the plots from the article, while implementing them in my own code. 
+
+All credit for materials provided goes to the below.
+
+
 ==========================================
 Bike Sharing Dataset
 ==========================================
